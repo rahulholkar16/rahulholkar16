@@ -1,3 +1,15 @@
+# 💫 Hi 👋, I'm Rahul Pal
+**A passionate Full-Stack Devloper || Web3 Enthusiast**
+
+Email Me 👉 ✉️ **rp1450991@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🌱 **I’m currently learning:** MERN STACK
+- 💬 **Ask me about:** Tech Support
+- 📫 **How to reach me:** rp1450991@gmail.com
+- 😄 **Pronouns:** Rahul Pal
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+## 🔗 I am a Developer. 😊😊
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahul_holkar16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulpal01) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rahul_web3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rp1450991@gmail.com) 
