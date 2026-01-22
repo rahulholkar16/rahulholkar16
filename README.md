@@ -31,8 +31,9 @@ Email Me 👉 ✉️ **rp1450991@gmail.com** For Collaboration/Project or Anythi
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahulholkar16&theme=radical&utcOffset=8">
 <img src="https://github-readme-stats.vercel.app/api?username=rahulholkar16&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
 <!-- <a href="https://git.io/streak-stats"><img height="160em" src="https://streak-stats.demolab.com?user=rahulholkar16&theme=radical&hide_border=true" alt="GitHub Streak" /></a> -->
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=rahulholkar16&theme=radical" alt="GitHub Streak" />
 </div>
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=rahulholkar16&theme=radical)
+<!-- ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=rahulholkar16&theme=radical) -->
 <br>
 
 ### ✍️ Random Dev Quote
