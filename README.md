@@ -1,11 +1,11 @@
 # 💫 Hi 👋, I'm Rahul Pal
 **A passionate Full-Stack Devloper || Web3 Enthusiast**
 
-Email Me 👉 ✉️ **rp1450991@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **dev.rahul.code@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🌱 **I’m currently learning:** MERN STACK
 - 💬 **Ask me about:** Tech Support
-- 📫 **How to reach me:** rp1450991@gmail.com
+- 📫 **How to reach me:** dev.rahul.code@gmail.com
 - 😄 **Pronouns:** Rahul Pal
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
