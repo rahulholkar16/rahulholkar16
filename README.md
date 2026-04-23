@@ -30,6 +30,7 @@ Email Me 👉 ✉️ **dev.rahul.code@gmail.com** For Collaboration/Project or A
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulholkar16&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahulholkar16&theme=radical&utcOffset=8">
 <img src="https://github-readme-stats.vercel.app/api?username=rahulholkar16&theme=radical&hide_border=true&include_all_commits=true&count_private=true">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rahulholkar16&theme=radical&bg_color=141321&color=FE428E&line=6c8ebf&point=00d4b4&hide_border=true&area=true&area_color=00d4b4&radius=12"/>
 <img src="https://streak-stats.demolab.com?user=rahulholkar16&theme=radical&hide_border=true" alt="GitHub Streak" />
 <!-- <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=rahulholkar16&theme=radical&hide_border=true" alt="GitHub Streak" />  -->
 </div>
