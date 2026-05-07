@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **dev.rahul.code@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🌱 **I’m currently learning:** Go Lang
+- 🌱 **I’m currently learning:** Nothing...
 - 💬 **Ask me about:** Tech Support
 - 📫 **How to reach me:** dev.rahul.code@gmail.com
 - 😄 **Pronouns:** Rahul Pal
