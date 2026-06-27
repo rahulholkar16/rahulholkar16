@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **dev.rahul.code@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🌱 **I’m currently learning:** Agentic AI
+- 🌱 **I’m currently learning:** It's secret
 - 💬 **Ask me about:** Tech Support
 - 📫 **How to reach me:** dev.rahul.code@gmail.com
 - 😄 **Pronouns:** Rahul Pal
