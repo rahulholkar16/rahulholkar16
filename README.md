@@ -1,9 +1,9 @@
 # 💫 Hi 👋, I'm Rahul Pal
-**A passionate Full-Stack Devloper || Web3 Enthusiast**
+**A passionate Full-Stack/AI Agent Devloper || Web3 Enthusiast**
 
 Email Me 👉 ✉️ **dev.rahul.code@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🌱 **I’m currently learning:** AI Automations
+- 🌱 **I’m currently learning:** Production-grade AI agents
 - 💬 **Ask me about:** Tech Support
 - 📫 **How to reach me:** dev.rahul.code@gmail.com
 - 😄 **Pronouns:** Rahul Pal
