@@ -18,46 +18,168 @@
 
 ## ⚡ What I'm About
 
+<div align="center">
+
+### I don't just build features. I build the system behind them.
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🤖
+**AI / Agents**
+
+`LLMs` · `RAG`  
+`Retrieval` · `Agents`
+
+</td>
+<td align="center" width="25%">
+
+### 💻
+**Full-Stack**
+
+`Next.js` · `React`  
+`TypeScript` · `APIs`
+
+</td>
+<td align="center" width="25%">
+
+### ⚙️
+**Backend**
+
+`Redis` · `BullMQ`  
+`PostgreSQL` · `Workers`
+
+</td>
+<td align="center" width="25%">
+
+### 🐳
+**Infrastructure**
+
+`Docker` · `Linux`  
+`CI/CD` · `Systems`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<details open>
+<summary><b>🧠 Who I am</b></summary>
+<br>
+
 I'm a **B.Tech CSE developer focused on the intersection of AI and software engineering**.
 
 I like taking an idea from a UI all the way down to the infrastructure behind it — APIs, authentication, databases, queues, background workers and AI services.
 
 My current direction is **production AI**: not just calling an LLM, but designing systems around it that can retrieve context, execute workflows, handle background jobs and work reliably at application scale.
 
+</details>
+
+<details>
+<summary><b>🤖 AI & Agent Engineering</b></summary>
+<br>
+
+**What I'm interested in:**
+
+- Repository-aware AI assistants
+- RAG pipelines and codebase understanding
+- Embeddings and vector retrieval
+- Query rewriting and re-ranking
+- Agentic workflows
+- LangChain / LangGraph
+- AI service architecture
+- Making LLMs useful inside real applications
+
+**My current mindset:**
+
 ```text
-                 ┌───────────────────────────┐
-                 │       AI / AGENTS          │
-                 │  RAG · LLMs · Retrieval    │
-                 └─────────────┬─────────────┘
-                               │
-              ┌────────────────┴────────────────┐
-              │                                 │
-      ┌───────▼────────┐               ┌────────▼───────┐
-      │   FULL-STACK    │               │   BACKEND /    │
-      │ Next.js · React │               │   SYSTEMS      │
-      │ TypeScript      │               │ Redis · Queues │
-      └───────┬────────┘               └────────┬───────┘
-              │                                 │
-              └────────────────┬────────────────┘
-                               │
-                    ┌──────────▼──────────┐
-                    │   SHIP & ITERATE    │
-                    │ Docker · Linux · CI │
-                    └─────────────────────┘
+LLM alone
+   ↓
+LLM + Context
+   ↓
+LLM + Retrieval
+   ↓
+LLM + Tools + Memory
+   ↓
+Agent + Workers + Infrastructure
+   ↓
+Production AI System
 ```
 
----
+</details>
 
-## 🧠 Currently Building / Learning
+<details>
+<summary><b>⚙️ Backend & Systems</b></summary>
+<br>
 
-| Area | Focus |
-|---|---|
-| 🤖 **AI Agents** | Production-grade agent workflows and repository-aware assistants |
-| 🔎 **RAG** | Embeddings, retrieval, query rewriting, hybrid search and re-ranking |
-| ⚙️ **Backend Systems** | Redis, BullMQ, background workers and event-driven architecture |
-| 🔐 **Application Security** | JWT-based service authentication and server-side API boundaries |
-| 🐳 **Infrastructure** | Docker, Docker Compose and production deployment patterns |
-| 🌐 **Web3 / P2P** | Blockchain, WebRTC and distributed application concepts |
+I enjoy the part users don't see:
+
+`Authentication` → `API boundaries` → `Queues` → `Workers` → `Redis` → `Database` → `AI Service`
+
+Things I'm actively working with:
+
+- PostgreSQL + Prisma
+- Redis
+- BullMQ
+- Background workers
+- JWT authentication
+- Server-side API proxying
+- Event-driven processing
+- Docker / Docker Compose
+
+</details>
+
+<details>
+<summary><b>🌐 Web3 / P2P / Distributed Tech</b></summary>
+<br>
+
+I'm also exploring systems where applications communicate beyond the traditional client → server model:
+
+- Solidity / smart contracts
+- WebRTC
+- P2P communication
+- Real-time systems
+- Distributed application concepts
+
+</details>
+
+<details>
+<summary><b>🎯 What I'm building toward</b></summary>
+<br>
+
+```text
+              ┌─────────────────────────┐
+              │     PRODUCTION AI       │
+              └────────────┬────────────┘
+                           │
+         ┌─────────────────┼─────────────────┐
+         ▼                 ▼                 ▼
+     AI Agents            RAG          Developer Tools
+         │                 │                 │
+         └─────────────────┼─────────────────┘
+                           ▼
+                 Reliable AI Systems
+                           │
+             ┌─────────────┴─────────────┐
+             ▼                           ▼
+       Backend Systems             Infrastructure
+     Redis · Queues · DB         Docker · Workers
+```
+
+**The direction:** move from *building applications that use AI* → to **engineering applications where AI is a core system component**.
+
+</details>
+
+<div align="center">
+
+<a href="#-featured-work">🚀 Projects</a> &nbsp;•&nbsp;
+<a href="#-engineering-stack">🧰 Stack</a> &nbsp;•&nbsp;
+<a href="#-github-overview">📊 Analytics</a> &nbsp;•&nbsp;
+<a href="#-lets-build-something">🤝 Connect</a>
+
+</div>
 
 ---
 
@@ -82,8 +204,6 @@ RepoMind is evolving into a developer workspace where a repository can be indexe
 - Removing client-controlled identity from AI-service requests
 - JWKS-based authentication work
 
-The latest work has focused heavily on **authentication boundaries and worker/service communication**, rather than treating the AI layer as a simple API call.
-
 **Stack:** `Next.js 16` `TypeScript` `PostgreSQL` `Prisma 7` `Redis` `BullMQ` `Better Auth` `Docker` `AI Services`
 
 > 🔒 Main RepoMind repository is private.
@@ -94,20 +214,7 @@ The latest work has focused heavily on **authentication boundaries and worker/se
 
 A full-stack **LeetCode-style coding platform** built as a serious backend/system-design project.
 
-**What it includes:**
-
-- 🔐 Authentication and protected routes
-- ⚡ Judge0-powered code execution
-- 🧪 Test-case execution and submission history
-- 📊 Runtime / memory tracking
-- 📚 Problem and test-case management
-- 🎯 Difficulty filtering, search and pagination
-- 📂 Public/private playlists
-- 🔥 Coding streaks and submission analytics
-- 👤 User profile and activity system
-- 🧵 Background workers for submissions and statistics
-- 🚀 Redis + BullMQ architecture for asynchronous processing
-- 🐳 Docker / Docker Compose infrastructure
+**Includes:** authentication, Judge0 code execution, submissions, runtime/memory tracking, problem management, playlists, coding streaks, analytics, background workers and Redis/BullMQ processing.
 
 **Stack:** `Next.js` `React` `TypeScript` `Prisma` `PostgreSQL` `Better Auth` `Judge0` `Redis` `BullMQ` `Docker` `Bun`
 
@@ -117,9 +224,7 @@ A full-stack **LeetCode-style coding platform** built as a serious backend/syste
 
 ### 🎓 PATHSHALA — Full-Stack LMS
 
-A learning management system designed around **digital education for students with limited connectivity**.
-
-The project explores an LMS combined with **offline/P2P learning concepts**, including WebRTC-oriented communication.
+A learning management system designed around **digital education for students with limited connectivity**, exploring offline/P2P learning concepts and WebRTC-oriented communication.
 
 **Stack:** `React` `Node.js` `Express` `MongoDB` `WebRTC / P2P` `Cloudinary`
 
@@ -130,8 +235,6 @@ The project explores an LMS combined with **offline/P2P learning concepts**, inc
 ### 🧩 Repo-Mind — Repository Exploration Frontend
 
 A Next.js workspace for connecting repositories, starting indexing jobs, tracking progress and chatting with repository context from a backend.
-
-This is the public-facing side of the repository-AI direction I'm building around RepoMind.
 
 **Stack:** `Next.js` `React` `TypeScript` `Prisma` `PostgreSQL` `Redis` `BullMQ`
 
@@ -165,34 +268,40 @@ This is the public-facing side of the repository-AI direction I'm building aroun
 
 # 🏗️ How I Think About Systems
 
-I enjoy projects where the interesting part isn't only the UI.
+<details open>
+<summary><b>Click to explore the architecture</b></summary>
+<br>
 
 ```text
 User Request
      │
      ▼
-Next.js / API Boundary
-     │
-     ├── Authentication / Authorization
-     │
-     ▼
-Application Service
-     │
-     ├──────────────► PostgreSQL
-     │
-     ├──────────────► Redis
-     │                    │
-     │                    ▼
-     │              BullMQ Worker
-     │                    │
-     │                    ▼
-     │              AI / Processing
-     │
-     ▼
-Response / Stream
+┌──────────────────────┐
+│ Next.js / API Layer  │
+└──────────┬───────────┘
+           │
+     Auth / Validation
+           │
+           ▼
+┌──────────────────────┐       ┌──────────────┐
+│ Application Service  │──────►│ PostgreSQL   │
+└──────────┬───────────┘       └──────────────┘
+           │
+           ├──────────────────► Redis
+           │                      │
+           │                      ▼
+           │                 BullMQ Worker
+           │                      │
+           │                      ▼
+           │                 AI / Processing
+           │                      │
+           └──────────────────────┘
+                      │
+                      ▼
+                Response / Stream
 ```
 
-I'm particularly interested in **where reliability, security and scalability start becoming real engineering problems**.
+</details>
 
 ---
 
@@ -212,9 +321,7 @@ I'm particularly interested in **where reliability, security and scalability sta
 # 🐍 Contribution Snake
 
 <div align="center">
-
 ![Contribution Snake](https://raw.githubusercontent.com/rahulholkar16/rahulholkar16/output/github-contribution-grid-snake.svg)
-
 </div>
 
 ---
@@ -230,31 +337,6 @@ I'm particularly interested in **where reliability, security and scalability sta
 **Web Applications:** `Euphoria` · `Coding-Buddies`
 
 <a href="https://github.com/rahulholkar16?tab=repositories"><b>→ Explore all repositories</b></a>
-
----
-
-# 🎯 2026 Direction
-
-```text
-                    ┌─────────────────────┐
-                    │   PRODUCTION AI     │
-                    └──────────┬──────────┘
-                               │
-            ┌──────────────────┼──────────────────┐
-            ▼                  ▼                  ▼
-       AI Agents            RAG            Developer Tools
-            │                  │                  │
-            └──────────────────┼──────────────────┘
-                               ▼
-                    Reliable AI Systems
-                               │
-                ┌──────────────┴──────────────┐
-                ▼                             ▼
-          Backend Systems              Infrastructure
-        Redis · Queues · DB          Docker · Workers
-```
-
-**The goal:** move from *building applications that use AI* → to **engineering applications where AI is a core system component**.
 
 ---
 
