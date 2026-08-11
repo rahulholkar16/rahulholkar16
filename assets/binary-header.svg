@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360">
+  <defs>
+    <clipPath id="reveal">
+      <rect x="0" y="0" width="0" height="360">
+        <animate attributeName="width" values="0;0;900" keyTimes="0;0.12;1" dur="5s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <pattern id="binary" width="42" height="22" patternUnits="userSpaceOnUse">
+      <text x="0" y="15" font-family="monospace" font-size="13" fill="#58a6ff">01010110</text>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#05090e" stop-opacity=".92"/>
+      <stop offset="1" stop-color="#05090e" stop-opacity=".15"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="360" rx="14" fill="#05090e"/>
+
+  <g clip-path="url(#reveal)">
+    <image href="https://avatars.githubusercontent.com/u/116374045?v=4" x="0" y="0" width="900" height="360" preserveAspectRatio="xMidYMid slice"/>
+  </g>
+
+  <rect width="900" height="360" fill="url(#binary)" opacity=".88">
+    <animate attributeName="opacity" values="1;.85;0;0;1" keyTimes="0;.18;.55;.9;1" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect width="900" height="360" fill="url(#fade)" opacity=".72"/>
+
+  <g font-family="monospace" fill="#d6f5ff">
+    <text x="28" y="42" font-size="14" fill="#58a6ff">RAHUL.PAL // AI ENGINEER</text>
+    <text x="28" y="326" font-size="13" fill="#7dd3fc">SYSTEM_BOOT // <tspan>AI • RAG • AGENTS • FULL-STACK</tspan></text>
+  </g>
+
+  <rect x="0" y="0" width="900" height="2" fill="#58a6ff" opacity=".8">
+    <animate attributeName="y" values="0;358;0" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
