@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rahulholkar16/rahulholkar16/main/assets/binary-header.svg" alt="Rahul Pal animated binary header" width="900"/>
+# Rahul Pal
 
 ### AI Engineer · Full-Stack Developer · AI Agent Builder
 
