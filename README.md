@@ -207,58 +207,6 @@ I'm also exploring systems where applications communicate beyond the traditional
 
 ---
 
-# 🏗️ How I Think About Systems
-
-<details open>
-<summary><b>Click to explore the architecture</b></summary>
-<br>
-
-```text
-User Request
-     │
-     ▼
-┌──────────────────────┐
-│ Next.js / API Layer  │
-└──────────┬───────────┘
-           │
-     Auth / Validation
-           │
-           ▼
-┌──────────────────────┐       ┌──────────────┐
-│ Application Service  │──────►│ PostgreSQL   │
-└──────────┬───────────┘       └──────────────┘
-           │
-           ├──────────────────► Redis
-           │                      │
-           │                      ▼
-           │                 BullMQ Worker
-           │                      │
-           │                      ▼
-           │                 AI / Processing
-           │                      │
-           └──────────────────────┘
-                      │
-                      ▼
-                Response / Stream
-```
-
-</details>
-
----
-
-# 📊 GitHub Overview
-
-<div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rahulholkar16&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulholkar16&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages"/>
-<br/>
-<img width="92%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulholkar16&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
-<br/>
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=rahulholkar16&theme=tokyo-night&hide_border=true&radius=12" alt="Contribution activity"/>
-</div>
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
@@ -267,19 +215,6 @@ User Request
 
 ---
 
-# 📌 Other Repositories
-
-**AI / Learning:** `AI-Quiz-tutor` · `LangGraph` · `Mindvault`
-
-**Developer Tools:** `Codebox` · `MediumPilot` · `URL Shorter`
-
-**Systems / Backend:** `Queue-Managment` · `SSE-learning-purpose-` · `Authentication`
-
-**Web Applications:** `Euphoria` · `Coding-Buddies`
-
-<a href="https://github.com/rahulholkar16?tab=repositories"><b>→ Explore all repositories</b></a>
-
----
 
 # 🤝 Let's Build Something
 
