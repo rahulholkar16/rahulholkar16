@@ -210,7 +210,12 @@ I'm also exploring systems where applications communicate beyond the traditional
 # 🐍 Contribution Snake
 
 <div align="center">
-![Contribution Snake](https://raw.githubusercontent.com/rahulholkar16/rahulholkar16/output/github-contribution-grid-snake.svg)
+
+<img
+  src="https://raw.githubusercontent.com/rahulholkar16/rahulholkar16/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
+/>
+
 </div>
 
 ---
