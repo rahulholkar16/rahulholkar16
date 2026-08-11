@@ -17,7 +17,7 @@
   <rect width="900" height="360" rx="14" fill="#05090e"/>
 
   <g clip-path="url(#reveal)">
-    <image href="https://avatars.githubusercontent.com/u/116374045?v=4" x="0" y="0" width="900" height="360" preserveAspectRatio="xMidYMid slice"/>
+    <image href="https://raw.githubusercontent.com/rahulholkar16/rahulholkar16/main/assets/profile.webp" x="0" y="0" width="900" height="360" preserveAspectRatio="xMidYMid slice"/>
   </g>
 
   <rect width="900" height="360" fill="url(#binary)" opacity=".88">
