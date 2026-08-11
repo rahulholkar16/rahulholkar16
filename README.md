@@ -1,6 +1,6 @@
 <div align="center">
 
-# Rahul Pal
+<img src="https://raw.githubusercontent.com/rahulholkar16/rahulholkar16/main/assets/binary-header.svg" alt="Rahul Pal animated binary header" width="900"/>
 
 ### AI Engineer · Full-Stack Developer · AI Agent Builder
 
@@ -211,15 +211,11 @@ I'm also exploring systems where applications communicate beyond the traditional
 
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/rahulholkar16/rahulholkar16/output/github-contribution-grid-snake.svg"
-  alt="GitHub Contribution Snake"
-/>
+<img src="https://raw.githubusercontent.com/rahulholkar16/rahulholkar16/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
-
 
 # 🤝 Let's Build Something
 
