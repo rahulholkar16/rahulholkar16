@@ -231,6 +231,6 @@ If you're working on **AI agents, developer tools, RAG, full-stack products, Web
 
 <div align="center">
 
-### `build → debug → learn → ship → repeat` ⚡
+### `build → debug → learn → ship → repeat`
 
 </div>
